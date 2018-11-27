@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcel", "ExportToExcel\ExportToExcel.csproj", "{12751A59-E5A4-4FD2-9456-A14FCEC2BD7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportToExcel.Test", "ExportToExcel.Test\ExportToExcel.Test.csproj", "{4F24476D-3770-4FEE-A841-28A20D4E7F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{12751A59-E5A4-4FD2-9456-A14FCEC2BD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12751A59-E5A4-4FD2-9456-A14FCEC2BD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12751A59-E5A4-4FD2-9456-A14FCEC2BD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F24476D-3770-4FEE-A841-28A20D4E7F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F24476D-3770-4FEE-A841-28A20D4E7F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F24476D-3770-4FEE-A841-28A20D4E7F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F24476D-3770-4FEE-A841-28A20D4E7F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
