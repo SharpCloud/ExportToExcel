@@ -12,7 +12,7 @@ namespace ExportToExcel.Test
 
             Assert.AreEqual("username", config.Username);
             Assert.AreEqual("password", config.Password);
-            Assert.AreEqual("url", config.Url);
+            Assert.AreEqual("https://my.sharpcloud.com", config.Url);
             Assert.AreEqual("story-id", config.StoryId);
         }
     }
